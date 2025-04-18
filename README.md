@@ -9,6 +9,9 @@ evaluation metrics. </h3>
 <h3>Ass-3:- Assignment based on Logistic Regression for classification using python. Assess the performance 
 of model using evaluation metrics. </h3>
 
+<h3>Ass-4:- Assignment based on Naive Bayes Classifier using python. Assess the performance of model using 
+evaluation metrics.</h3>
+
 <h3>Ass-5:- Assignment based on Decision Tree Algorithm using python. Assess the performance of model 
 using evaluation metrics </h3>
 
