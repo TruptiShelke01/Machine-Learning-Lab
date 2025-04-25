@@ -17,3 +17,6 @@ using evaluation metrics </h3>
 
 <h3>Ass-6:-Assignment based on Random Forest Algorithm using python. Assess the performance of model 
 using evaluation metrics </h3>
+
+<h3>Ass-7:- Assignment based on K-means Clustering Algorithm using python for Mall Customer 
+Segmentation</h3>
