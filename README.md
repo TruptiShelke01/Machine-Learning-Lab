@@ -20,3 +20,6 @@ using evaluation metrics </h3>
 
 <h3>Ass-7:- Assignment based on K-means Clustering Algorithm using python for Mall Customer 
 Segmentation</h3>
+
+<h3> Ass-8:- Assignment based on Deep Learning Implement Convolutional Neural Network for
+  image classification download image dataset and evaluate the model with accuracy</h3>
